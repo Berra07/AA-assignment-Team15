@@ -6,9 +6,11 @@ KPI's
 - idle time -> doneCharge bis disconnectTime
 
 - station utilization (innerhalb 24h, absolut und relativ)
--->Stationauslastung
--->Wie viele Kunden Pro Stunden?
+--> Stationauslastung
+--> Wie viele Kunden Pro Stunden?
 --> Welche stations werden am meisten benutzt? 
+
+- site utilization
 
 - Wie viel kwH wurde geladen? (in den letzten 24std.)
 -->Average Energy Delivered per Session 
@@ -18,6 +20,8 @@ KPI's
 - repeating customers (Stammkunden?)
 
 - Peak Demand Hours: Identifies the hours with the highest energy demand, helping to manage load on the grid and optimize pricing strategies.
+
+- registered & unregistered ratio
 
 
 
