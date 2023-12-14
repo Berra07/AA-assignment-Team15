@@ -1,5 +1,5 @@
 1. **Station Downtime Between Sessions**
-   - total accumulated disconnect time
+   - total accumulated downtime time
    - Description: Measures the duration of time that a charging station remains "free" or inactive before the next connection occurs, indicating how quickly the station is utilized between sessions.
 
 2. **Total Idle Time**
